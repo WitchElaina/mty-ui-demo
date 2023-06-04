@@ -27,8 +27,7 @@ coverage
 *.sln
 *.sw?
 
-# package manager directories
-package-lock.json
+
 
 # vitepress
 .vitepress/dist
